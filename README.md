@@ -1,4 +1,4 @@
-# CS210-Clocks-Java
+# Clocks-Java
 
 # Digital-Clock-App
 
